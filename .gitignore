@@ -1,0 +1,48 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+/partial-www/dist
+/partial-www/tmp
+/partial-www/out-tsc
+/partial-www/docs/build/ng2-admin
+/mysql
+
+# dependencies
+/partial-www/node_modules
+
+# IDEs and editors
+/partial-www/.idea
+/partial-www/.project
+/partial-www/.classpath
+/partial-www/.c9/
+/partial-www/*.launch
+/partial-www/.settings/
+/partial-www/*.sublime-workspace
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.idea/*
+
+# misc
+/partial-www/.sass-cache
+/partial-www/connect.lock
+/partial-www/coverage
+/partial-www/libpeerconnection.log
+/partial-www/npm-debug.log
+/partial-wwwtestem.log
+/partial-www/typings
+
+# e2e
+/partial-www/e2e/*.js
+/partial-www/e2e/*.map
+
+# System Files
+/partial-www/.DS_Store
+/partial-wwwThumbs.db
+
+# pdf
+/Parcial – móviles 2.pdf
